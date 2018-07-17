@@ -1,0 +1,9 @@
+Project ID:
+restaurant-menu-app-210404
+
+client ID:
+595888207696-saiiv3l4m0obuhj79al9liojp2r5eea9.apps.googleusercontent.com
+
+client secret:
+1E-HnWVfiRQljJNre5-F1yWC
+
